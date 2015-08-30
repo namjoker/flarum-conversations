@@ -1,0 +1,21 @@
+{
+    "name": "conversations",
+    "title": "Conversations",
+    "description": "Adds private messaging to Flarum",
+    "keywords": [],
+    "version": "0.1.0",
+    "author": {
+        "name": "Jake B.",
+        "email": "jake.booher@gmail.com"
+    },
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "flarum": ">0.1.0"
+    },
+    "icon": {
+        "name": "comments",
+        "backgroundColor": "#FFDB5E",
+        "color": "#fff"
+    }
+}
